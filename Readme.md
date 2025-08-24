@@ -162,18 +162,7 @@ plotly>=5.0.0
 scikit-learn>=1.0.0
 ```
 
-## 📊 Sample Outputs
 
-<details>
-<summary>🖼️ Click to see example visualizations</summary>
-
-- **Correlation Heatmaps** with advanced styling
-- **Time Series Decomposition** plots
-- **Interactive Sales Dashboards**
-- **Multi-dimensional Feature Correlation**
-- **Statistical Distribution Analysis**
-
-</details>
 
 
 
