@@ -38,8 +38,7 @@ The project follows a **progressive learning path**, from foundational Python li
 ├── 📓 multivariate_time_series_analysis.ipynb
 ├── 📋 requirements.txt
 ├── 📄 README.md
-└── 📁 data/
-    └── (sample datasets)
+
 ```
 
 ## 📖 Notebooks
@@ -220,9 +219,8 @@ For detailed documentation on each notebook and methodology, please refer to the
 **Paras Sharma**  
 *Penultimate-year student at IIT Kanpur*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-sharma-429820253/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paras1301sharma@gmail.com)
 
 *Passionate about **data-driven problem-solving**, **time-series modeling**, and **AI applications***
 
