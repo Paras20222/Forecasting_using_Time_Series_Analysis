@@ -8,9 +8,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-*A comprehensive collection of data science workflows for exploratory analysis and time-series modeling*
 
-[📚 Documentation](#documentation) • [🚀 Quick Start](#quick-start) • [📖 Notebooks](#notebooks) • [🔧 Installation](#installation)
 
 </div>
 
@@ -177,16 +175,7 @@ scikit-learn>=1.0.0
 
 </details>
 
-## 🗺️ Learning Path
 
-```mermaid
-graph TD
-    A[Basic Python Libraries] --> B[Exploratory Data Analysis]
-    B --> C[Sales Data Analysis]
-    C --> D[Time Series Pipeline]
-    D --> E[Multivariate Analysis]
-    E --> F[Advanced ML Integration]
-```
 
 ## 🔮 Future Enhancements
 
